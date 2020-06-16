@@ -1,2 +1,2 @@
 # youtube-thumbnail-
-youtube thumbnail php javascript
+youtube thumbnail php javascript jquery
